@@ -1,4 +1,4 @@
-# articles-1
+# SailsJS_Project
 
 a [Sails v1](https://sailsjs.com) application
 
